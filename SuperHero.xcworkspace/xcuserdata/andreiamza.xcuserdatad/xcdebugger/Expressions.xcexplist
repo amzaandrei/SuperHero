@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "AllHeroesPage.heartTapped(tapGestureRecognizer:):AllHeroesPage.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AllHeroesPage.correctTheOrderOfLikedHeroes():AllHeroesPage.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AllHeroesPage.updateSearchResults(for:):AllHeroesPage.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "heroesArray.filter({$0.name!.contains(query)})">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ImageCache.getImage(from:completion:):ImageCacheHelper.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AllHeroesPage.viewWillDisappear(_:):AllHeroesPage.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.findUserById():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in ViewController.findUserById():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Biography.init(from:):SuperHeroGeneral.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AllHeroesPage.collectionView(_:didSelectItemAt:):AllHeroesPage.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in SuperHeroGet.fetchSuperHeroData&lt;&#x3c4;_0_0&gt;(withId:modelType:requestType:completion:):SuperHeroGet.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SuperheroViewController.configureView():SuperheroViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
